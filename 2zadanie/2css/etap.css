@@ -1,0 +1,888 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500&display=swap');
+
+body {
+    margin: 0;
+    height: 150%;
+}
+header {
+background-image: url(https://screenbeauty.com/image/wallpapers/cafe-creative-tables-80874.jpg);
+margin: 0 auto;
+height: 480px;
+background-repeat: no-repeat;
+background-size: cover;
+font-family: 'Dancing Script', cursive;
+display: flex;
+text-align: center;
+align-items: center;
+}
+
+.etap-n img {
+    max-width: 12%;
+}
+
+.etap-n h1 {
+    color: white;
+    font-size: 300%;
+    margin:0;
+}
+
+
+.etap-n {
+ padding-left: 22%;
+}
+
+.cantarel {
+    font-family: 'Dancing Script', cursive;  
+}
+
+.cantarel b {
+    color: chocolate;
+}
+
+.cantarel h1 {
+    margin: 0;
+    font-size: 30px;
+    margin-left: 10.5%;
+    margin-bottom: 30px;
+}
+
+.cantarella {
+    margin-left: 38%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.hr1 {
+    margin-top: 10px;
+    color: white;
+}
+
+.hr2 {
+    margin-top: 10px;
+    color: white;
+}
+
+.hr1 hr {
+    margin-bottom: 0;
+}
+
+.hr2 hr {
+    margin: 8px 0 0 ;
+}
+
+.verx {
+    display: flex;
+}
+
+.niz {
+    display: flex;
+}
+
+.starr i {
+    font-size: 15px;
+    margin: 12px 2px 0  ;
+}
+
+.povary {
+    display: flex;
+    margin-left: 115px;
+    height: 600px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.povary img {
+    max-width: 65%;
+    margin-left: 23px;
+}
+
+.povar1 {
+    background-image: url(file:///C:/Users/Leant/Desktop/stazhirovka/2zadanie/etap-photo/1500.png);
+    background-repeat: no-repeat;
+    
+}
+
+.povar2 {
+    background-image: url(file:///C:/Users/Leant/Desktop/stazhirovka/2zadanie/etap-photo/1500.png);
+    background-repeat: no-repeat;
+}
+
+
+.povar1-n {
+    margin-left: 57px;
+    margin-top: 60px;
+}
+
+.povar1-n h2 {
+    padding-left: 130px;
+    margin: 12px 0 15px; 
+}
+
+.povar1-n p {
+    font-size: 87%;
+    opacity: 0.5;
+}
+
+.povar2-n {
+    margin-left: 57px;
+    margin-top: 60px;
+}
+
+.povar2-n h2 {
+    padding-left: 130px;
+    margin: 12px 0 15px;
+}
+
+.povar2-n p {
+    font-size: 87%;
+    margin-left: 18px;
+    opacity: 0.5;
+}
+
+.menu-mm {
+    font-family: 'Dancing Script', cursive;  
+}
+
+.menu-mm b {
+    color: chocolate;
+}
+
+.menu-mm h1 {
+    margin: 0;
+    font-size: 30px;
+    margin-left: 14%;
+    margin-bottom: 10px;
+}
+
+.menu-m {
+    margin-left: 38%;
+    margin-top: 4%;
+}
+
+.verx-m {
+    display: flex;
+}
+
+.niz-m {
+    display: flex;
+}
+
+
+.menu .container {
+    border:rgb(243, 243, 243) solid 5px;
+    margin: 12px;
+    width: 27%;
+}
+
+.menu {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 9%;
+}
+
+.menu h3 {
+    color: chocolate;
+    text-align: center;
+}
+
+.menu .zak, .gblud, .desert {
+    border: rgb(243, 243, 243) solid 4px; 
+    margin: 10px;
+}
+
+.menu img {
+    max-width: 100px;
+    border-radius: 1500px;
+    max-height: 100px;
+}
+
+.blud-vino, .sushi, .burger, .tell, .osetr, .tort, .keks, .chicken, .piro {
+    display: flex;
+    padding: 10px;
+}
+
+
+
+.menu h4 {
+    margin: 0 0 10px 0;
+    opacity: 0.8;
+}
+
+.menu p {
+    opacity: 0.5;
+    font-size: 13px;
+}
+
+.blud-vino-n, .sushi-n, .tell-n, .osetr-n, .burger-n, .keks-n, .chicken-n, .piro-n, .tort-n {
+    margin: 12px;
+    margin-top: 0;
+}
+
+.blud-vino-img {
+    max-height: 100px;
+}
+
+.menu hr {
+    width: 300px;
+}
+
+
+.last-food-ff {
+    font-family: 'Dancing Script', cursive;  
+}
+
+.last-food-ff b {
+    color: chocolate;
+}
+
+.last-food-ff h1 {
+    margin: 0;
+    font-size: 30px;
+    margin-left: 3%;
+    margin-bottom: 10px;
+}
+
+.last-food-f {
+    margin-left: 38%;
+    margin-top: 4%;
+}
+
+.verx-f {
+    display: flex;
+}
+
+.niz-f {
+    display: flex;
+}
+
+figure img {
+    max-width: 192px;
+    max-height: 120;
+}
+
+.last-food {
+    margin: 4% 20% 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+figcaption p {
+    font-size: 13px;
+    margin: 8px 0;
+    color: rgb(131, 131, 131);
+}
+
+figcaption {
+    padding: 0 7% 7%;
+}
+
+figcaption h4 {
+    margin: 14px 0 0;
+    color: white;
+    font-size: 15px;
+}
+
+.torty, .pizza, .fruit, .slave, .keksy, .krem, .brunch, .vino {
+    max-width: 192px;
+    background-color: rgb(44, 44, 44);
+}
+
+figure {
+    margin: 0;
+}
+
+
+.first-sect, .second-sect {
+    display: flex;
+}
+
+
+.keksy {
+    max-height: 215px;
+}
+
+.slave {
+    max-height: 215px;
+}
+
+
+.pizza {
+    max-height: 215px;
+}
+
+.fruit {
+    margin: 0 35px ;
+}
+
+.pizza {
+    margin-right: 35px;
+}
+
+
+.keksy {
+    margin-right: 35px;
+}
+
+
+.krem {
+    margin: 35px 35px 0 0;
+}
+
+.torty {
+    max-height: 230px;
+}
+
+.brunch {
+    max-height: 240px;
+}
+
+.vino {
+    max-height: 240px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.reviews-rr {
+    font-family: 'Dancing Script', cursive;  
+}
+
+.reviews-rr b {
+    color: chocolate;
+}
+
+.reviews-rr h1 {
+    margin: 0;
+    font-size: 30px;
+    margin-left: 7%;
+    margin-bottom: 10px;
+}
+
+.reviews-r {
+    margin-left: 38%;
+    margin-top: 7%;
+}
+
+
+.verx-r {
+    display: flex;
+}
+
+.niz-r {
+    display: flex;
+}
+
+.reviews-nn {
+    font-family: 'Dancing Script', cursive;  
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.reviews {
+    font-family: sans-serif;
+    margin-left: 15%;
+}
+
+.review i {
+    color: chocolate;
+    font-size: 40px;
+}
+
+.review p {
+    padding-left: 10px;
+    opacity: 0.5;
+    margin: 0;
+}
+
+.r-name {
+    margin-left: 70%;
+    color: chocolate;
+}
+
+.review {
+    display: flex;
+}
+
+.review-n .r-stars {
+    margin-left: 70%;
+    margin-top: 10px;
+    color: chocolate;
+    font-size: 80%;
+}
+
+.review1 {
+    margin-bottom: 60px;
+}
+
+.review2 p {
+    max-width: 963px;
+    margin: 0;
+}
+
+.review2 .r-name {
+    margin-left: 55.5%;
+}
+
+.review2 .r-stars {
+    margin-left: 70.3%;
+}
+
+.svyaz-ss {
+    font-family: 'Dancing Script', cursive;  
+}
+
+.svyaz-ss b {
+    color: chocolate;
+}
+
+.svyaz-ss h1 {
+    margin: 0;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+
+.verx-s {
+    display: flex;
+}
+
+.niz-s {
+    display: flex;
+}
+
+.svyaz-s {
+    margin-left: 38%;
+    margin-top: 7%;
+    margin-bottom: 1%;
+}
+
+ form {
+    margin: 0 22% 10%;
+    max-width: auto;
+}
+
+.form1 {
+    padding: 13px 20px ; 
+    width: 42%;
+    border: rgb(207, 207, 207) solid 1px;
+    margin: 0 2% 2.5% 0;
+}
+
+.form2 {
+    padding: 13px 20px ; 
+    width: 42%;
+    border: rgb(207, 207, 207) solid 1px;
+}
+
+.form3 {
+    padding: 13px 75% 75px 20px;
+    border: rgb(207, 207, 207) solid 1px;
+}
+
+.form-b {
+    color: rgb(196, 196, 196);
+    background-color: rgb(24, 24, 24);
+    border: none;
+    padding: 15px 25px;
+    margin: 4% 0 0;
+}
+
+
+footer {
+    background-color: chocolate;
+    height: 200px;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+
+.footer-b {
+    color: chocolate;
+    border: none;
+    border-radius: 50px;
+    font-size: 150%;
+    padding: 1.3% 1.5%;
+    margin-left: 46.5%;
+    position: absolute;
+    top: 555%;
+    background-color: white;
+}
+
+.footer-b:hover {
+        -webkit-box-shadow: 0 0 30px 0 gray;
+        box-shadow: 0 0 30px 0 gray;
+        -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+}
+
+
+.footer-links {
+    display: flex;
+}
+
+.footer-links i {
+    color: white;
+}
+.face {
+    padding: 12px 15px;
+    background-color: rgb(156, 81, 28);
+    border: none;
+    border-radius: 2px;
+    margin-right: 12px;
+} 
+
+.inst {
+    background-color: rgb(156, 81, 28);
+    border: none;
+    border-radius: 2px;
+    padding: 12px 13px;
+    margin-right: 12px;
+}
+
+.twit {
+    background-color: rgb(156, 81, 28);
+    border: none;
+    border-radius: 2px;
+    padding: 12px 12px;
+    margin-right: 12px;
+}
+
+.pint {
+    background-color: rgb(156, 81, 28);
+    border: none;
+    border-radius: 2px;
+    padding: 12px 12px;
+    margin-right: 12px;
+}
+
+.footer-links button {
+    background-color: rgb(156, 81, 28);
+    padding: none;
+    border: none;
+    
+}
+
+
+.footer-links {
+    padding: 5% 0 0 41%;
+}
+
+footer p {
+    color: white;
+    padding: 1% 0 0 45%;
+}
+
+nav {
+    background-color: rgb(44, 44, 44);
+    margin: 0;
+    padding: 0;
+    display:none ;
+}
+
+.nav1 {
+    display: flex;
+}
+
+.nav2{
+    display: flex;
+}
+
+.item {
+    list-style: none;
+}
+
+.item a {
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width: 720px) {
+    header {
+        width: 245%;
+        max-width: 100%;
+        margin: 0;
+    }
+
+    .etap-n img {
+        max-width: 30%;
+    }
+
+    .etap-n {
+        padding-left: 1%;
+    }
+
+
+    .cantarella {
+        font-size: 20%;
+        margin-left: 35%;
+    }
+
+    .cantarel {
+        display: none;
+    }
+
+    .niz {
+        display: none;
+    }
+
+    .hr1 hr, .hr2 hr {
+        margin: 0;
+    }
+
+    .hr1, .hr2 {
+        margin-top: 18px;
+    }
+
+
+
+
+    .povary {
+        display: block;
+        margin: 0;
+        margin-bottom: 200px;
+    }
+
+    .povar1, .povar2 {
+        background-size: 90%;
+        height: 62%;
+        margin-left: 10%;
+    }
+
+    .povar1-n, .povar2-n {
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+
+    .povary img {
+        margin-top: 10%;
+    }
+
+    .povary h2 {
+        padding-left: 13.5%;
+        font-size: 130%;
+        margin: 2% 0;
+    }
+
+    .povary p {
+        max-width: 85%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .menu-m {
+        font-size: 20%;
+        margin-left: 32.5%;
+        margin-bottom: 10%;
+    }
+
+
+    .hr1 hr, .hr2 hr {
+        margin: 0;
+    }
+
+    .hr1, .hr2 {
+        margin-top: 18px;
+    }
+
+    .menu {
+        display: block;
+        margin-left: 1%;;
+    }
+
+    .menu .container {
+        width: auto;
+        margin: 3%;
+    }
+
+    .menu hr {
+        width: 100%;
+    }
+
+    .last-food-f {
+        margin-left: 26.5%;
+        font-size: 50%;
+    }
+
+    .last-food-f h1 {
+        font-size: 240%;
+        margin-left: 0;
+    }
+
+    .second-sect {
+        display: block;
+    }
+
+    .first-sect {
+        display: block;
+    }
+
+    .vino {
+        margin-left: 0;
+        margin-top: 10%;
+    }
+
+    .fruit {
+        margin: 10% 0;
+    }
+
+    .keksy {
+        margin-top: 10%;
+        width: 100%;
+    }
+
+    .krem {
+        margin-top: 10%;
+        width: 100%;
+    }
+
+    .brunch {
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    .torty {
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    .pizza {
+        width: 100%;
+    }
+
+    .last-food {
+        margin-top: 20%;
+        margin-left: 23.6%;
+    }
+
+
+    .reviews-r {
+        margin-left: 26.5%;
+        font-size: 50%;
+    }
+
+    .reviews-r h1 {
+        font-size: 240%;
+        margin-left: 7%;
+    }
+
+
+    .reviews-nn h3 {
+        font-size: 75%;
+        margin-left: 35%;
+    }
+
+    .reviews-nn {
+        max-width: 72%;
+    }
+
+    .reviews {
+        margin-left: 5%;
+        max-width: 90%;
+    }
+
+    .svyaz-s {
+        margin-left: 26.5%;
+        font-size: 50%;
+    }
+
+    .svyaz-s h1 {
+        font-size: 240%;
+        margin-left: 2.5%;
+    }
+
+
+    form {
+        margin: 0 7.5 10%;
+    }
+
+    .form1 {
+        padding: 5% 50% 5% 5%;
+        margin: 0 0 6% 0;
+    }
+    
+    .form2 {
+        padding: 5% 50% 5% 5%;
+        margin: 0 0 6% 0;
+    }
+
+    .form3 {
+        padding: 5% 2% 47% 20px;
+        margin-bottom: 10%;
+    }
+
+    footer {
+        height: 3%;
+    }
+
+    .footer-links {
+        padding: 15% 0 0 17.5%;
+    }
+
+    footer p {
+        padding: 7% 0 7% 35%;
+        margin: 0;
+    }
+
+
+    nav .item {
+        padding: 3% 6%;
+    }
+
+
+    .nav1 {
+        margin-left:5% ;
+    }
+
+
+    nav {
+        font-family: sans-serif;
+        display: block;
+        position: sticky;
+        width: 100%;
+        top: 0;
+    }
+
+    .nav2 {
+        margin-left: 26%;
+    }
+
+    .item a {
+        font-size: 70%;
+    }
+
+    .nav1 {
+        display: flex;
+    }
+    
+    .nav2{
+        display: flex;
+    }
+    
+    .item {
+        list-style: none;
+    }
+    
+    .item a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .footer-b {
+        padding: 2.8% 3.6%;
+        top: 857.5%;
+        margin-left: 43.5%;
+    }
+
+    .footer-b:hover {
+        -webkit-box-shadow: 0 0 30px 0 gray;
+        box-shadow: 0 0 30px 0 gray;
+        -webkit-transform: scale(0.9);
+        -ms-transform: scale(0.9);
+        transform: scale(0.9);
+        -webkit-transition: 0.5s;
+        -o-transition: 0.5s;
+        transition: 0.5s;
+}
+}
